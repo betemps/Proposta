@@ -1,0 +1,338 @@
+\begin{thebibliography}{\hspace{\parindent}}
+
+\bibitem[ABDALLAH et~al.(2016)ABDALLAH; TRABELSI; ATITALLAH;
+  ABED]{Abdallah2016} ABDALLAH, F.; TRABELSI, C.; ATITALLAH, R.; ABED, M\@.
+  {Model-Driven Approach for Early Power-Aware Design Space Exploration of
+  Embedded Systems}. \textbf{Journal of Signal Processing Systems}, [S.l.],
+  p.1--16, 2016.
+
+\bibitem[ADLER et~al.(2011)ADLER; SCHAEFER; TRAPP;
+  POETZSCH-HEFFTER]{Adler:2011:CMV:1880050.1880056} ADLER, R.; SCHAEFER, I.;
+  TRAPP, M.; POETZSCH-HEFFTER, A\@. {Component-based Modeling and Verification
+  of Dynamic Adaptation in Safety-critical Embedded Systems}. \textbf{ACM
+  Trans. Embed. Comput. Syst.}, New York, NY, USA, v.10, n.2, p.20:1----20:39,
+  2011.
+
+\bibitem[ALTENBERND et~al.(2016)ALTENBERND; GUSTAFSSON; LISPER;
+  STAPPERT]{Altenbernd2016} ALTENBERND, P.; GUSTAFSSON, J.; LISPER, B.;
+  STAPPERT, F\@. {Early execution time-estimation through automatically
+  generated timing models}. \textbf{Real-Time Systems}, [S.l.], v.52, n.6,
+  p.731--760, 2016.
+
+\bibitem[AN; GAMATI{\'{E}}; RUTTEN(2015)AN; GAMATI{\'{E}}; RUTTEN]{An2015172}
+  AN, X.; GAMATI{\'{E}}, A.; RUTTEN, E\@. {High-level design space exploration
+  for adaptive applications on multiprocessor systems-on-chip}. \textbf{Journal
+  of Systems Architecture}, [S.l.], v.61, n.3--4, p.172--184, 2015.
+
+\bibitem[ASCIA et~al.(2011)ASCIA; CATANIA; {Di Nuovo}; PALESI;
+  PATTI]{Ascia2011382} ASCIA, G. et~al\@. {Performance evaluation of efficient
+  multi-objective evolutionary algorithms for design space exploration of
+  embedded computer systems}. \textbf{Applied Soft Computing}, [S.l.], v.11,
+  n.1, p.382--398, 2011.
+
+\bibitem[BERTELS(2012)BERTELS]{bertels2012HW:SW:Introduction} BERTELS,
+  K\@.~(Ed.). \textbf{Hardware/Software Co-design for Heterogeneous Multi-core
+  Platforms}: The hArtes Toolchain. [S.l.]: Springer Netherlands, 2012. p.1--8.
+
+\bibitem[BETEMPS(2017)BETEMPS]{Betemps_2017_EQ} BETEMPS, C.~M\@.
+  \textbf{Desenvolvimento de Sistemas Embarcados usando Alto Nível de
+  Abstração}. Exame de Qualificação de Doutorado. Programa de
+  Pós-Graduação em Computação (PPGC) - Universidade Federal de Pelotas
+  (UFPel). Orientador: Bruno Zatt. Co-Orientadores: Marcelo Porto e Daniel
+  Palomino. Banca de Avaliação: Júlio C. B. de Mattos e Maurício L. Pilla.
+  Data do Exame: 25-Out-2017, URL:
+  \url{https://drive.google.com/file/d/0BzYkPIeXn1jaLUJsR25RNFlhd0U/view?usp=sharing}.
+
+\bibitem[CAI; GAJSKI(2003)CAI; GAJSKI]{Cai:2003:TLM} CAI, L.; GAJSKI, D\@.
+  Transaction Level Modeling: An Overview. In: IEEE/ACM/IFIP INTERNATIONAL
+  CONFERENCE ON HARDWARE/SOFTWARE CODESIGN AND SYSTEM SYNTHESIS, 1., 2003, New
+  York, NY, USA. \textbf{Proceedings{\ldots}} ACM, 2003. p.19--24. (CODES+ISSS
+  '03).
+
+\bibitem[CALLOU et~al.(2011)CALLOU et~al.]{callou2011energy} CALLOU, G.
+  et~al\@. Energy consumption and execution time estimation of embedded system
+  applications. \textbf{Microprocessors and Microsystems}, [S.l.], v.35, n.4,
+  p.426--440, 2011.
+
+\bibitem[CAMPOSANO; WILBERG(1996)CAMPOSANO; WILBERG]{Camposano1996} CAMPOSANO,
+  R.; WILBERG, J\@. {Embedded system design}. \textbf{Design Automation for
+  Embedded Systems}, [S.l.], v.1, n.1, p.5--50, 1996.
+
+\bibitem[{De Micheli}; GUPTA(1997){De Micheli}; GUPTA]{DeMicheli_Gupta1997} {De
+  Micheli}, G.; GUPTA, R.~K\@. {Hardware/software co-design}.
+  \textbf{Proceedings of the IEEE}, [S.l.], v.85, n.3, p.349--365, 1997.
+
+\bibitem[DIGUET; EUSTACHE; GOGNIAT(2011)DIGUET; EUSTACHE;
+  GOGNIAT]{Diguet:2011:CSH:1952522.1952531} DIGUET, J.-P.; EUSTACHE, Y.;
+  GOGNIAT, G\@. {Closed-loop--based Self-adaptive Hardware/Software-Embedded
+  Systems: Design Methodology and Smart Cam Case Study}. \textbf{ACM Trans.
+  Embed. Comput. Syst.}, New York, NY, USA, v.10, n.3, p.38:1----38:28, 2011.
+
+\bibitem[DORIGO; ST{\"U}TZLE(2010)DORIGO; ST{\"U}TZLE]{Dorigo2010_ACO} DORIGO,
+  M.; ST{\"U}TZLE, T\@. Ant Colony Optimization: Overview and Recent Advances.
+  In: GENDREAU, M.; POTVIN, J.-Y\@.~(Ed.). \textbf{Handbook of Metaheuristics}.
+  Boston, MA: Springer US, 2010. p.227--263.
+
+\bibitem[DUHEM et~al.(2015)DUHEM; MULLER; BONAMY; BILAVARN]{Duhem2015} DUHEM,
+  F.; MULLER, F.; BONAMY, R.; BILAVARN, S\@. FoRTReSS: a flow for design space
+  exploration of partially reconfigurable systems. \textbf{Design Automation
+  for Embedded Systems}, [S.l.], v.19, n.3, p.301--326, Sep~2015.
+
+\bibitem[DURELLI et~al.(2014)DURELLI; POGLIANI; MIELE; PLESSL; RIEBLER;
+  SANTAMBROGIO; VAZ; BOLCHINI]{durelli2014runtime} DURELLI, G.~C. et~al\@.
+  Runtime resource management in heterogeneous system architectures: The save
+  approach. In: PARALLEL AND DISTRIBUTED PROCESSING WITH APPLICATIONS (ISPA),
+  2014 IEEE INTERNATIONAL SYMPOSIUM ON, 2014. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2014. p.142--149.
+
+\bibitem[ERBAS et~al.(2007)ERBAS; PIMENTEL; THOMPSON;
+  POLSTRA]{erbas2007framework} ERBAS, C.; PIMENTEL, A.~D.; THOMPSON, M.;
+  POLSTRA, S\@. {A framework for system-level modeling and simulation of
+  embedded systems architectures}. \textbf{EURASIP Journal on Embedded Syst.},
+  [S.l.], n.1, p.82123, 2007.
+
+\bibitem[FALKNER et~al.(2016)FALKNER; SZABO; CHIPRIANOV; PUDDY; RIECKMANN;
+  FRASER; ASTON]{Falkner2016} FALKNER, K. et~al\@. {Model-driven performance
+  prediction of systems of systems}. \textbf{Software {\&} Systems Modeling},
+  [S.l.], p.1--27, 2016.
+
+\bibitem[GAJSKI et~al.(2009)GAJSKI; ABDI; GERSTLAUER;
+  SCHIRNER]{gajski2009embedded} GAJSKI, D.~D.; ABDI, S.; GERSTLAUER, A.;
+  SCHIRNER, G\@. \textbf{Embedded system design}: modeling, synthesis and
+  verification. [S.l.]: Springer Science \& Business Media, 2009.
+
+\bibitem[GASTER et~al.(2012)GASTER; HOWES; KAELI; MISTRY;
+  SCHAA]{gaster2012heterogeneous} GASTER, B. et~al\@. \textbf{Heterogeneous
+  Computing with OpenCL}. [S.l.]: Morgan Kaufmann, 2012.
+
+\bibitem[GENDREAU; POTVIN(2010a)GENDREAU; POTVIN]{gendreau2010handbook}
+  GENDREAU, M.; POTVIN, J.-Y\@. \textbf{Handbook of Metaheuristics}. 2.ed.
+  [S.l.]: Springer Science+Business Media, 2010. v.146.
+
+\bibitem[GENDREAU; POTVIN(2010b)GENDREAU; POTVIN]{Gendreau2010_Tabu} GENDREAU,
+  M.; POTVIN, J.-Y\@. Tabu Search. In: GENDREAU, M.; POTVIN, J.-Y\@.~(Ed.).
+  \textbf{Handbook of Metaheuristics}. Boston, MA: Springer US, 2010. p.41--59.
+
+\bibitem[GHEORGHITA et~al.(2009)GHEORGHITA; PALKOVIC; HAMERS; VANDECAPPELLE;
+  MAMAGKAKIS; BASTEN; EECKHOUT; CORPORAAL; CATTHOOR; VANDEPUTTE;
+  BOSSCHERE]{Gheorghita:2009:SDD:1455229.1455232} GHEORGHITA, S.~V. et~al\@.
+  {System-scenario-based Design of Dynamic Embedded Systems}. \textbf{ACM
+  Trans. Des. Autom. Electron. Syst.}, New York, NY, USA, v.14, n.1,
+  p.3:1----3:45, 2009.
+
+\bibitem[GLAß et~al.(2017)GLAß; TEICH; LUKASIEWYCZ; REIMANN]{Glab2017} GLAß,
+  M.; TEICH, J.; LUKASIEWYCZ, M.; REIMANN, F\@. Hybrid Optimization Techniques
+  for System-Level Design Space Exploration. In: HA, S.; TEICH, J\@.~(Ed.).
+  \textbf{Handbook of Hardware/Software Codesign}. Dordrecht: Springer
+  Netherlands, 2017. p.217--246.
+
+\bibitem[GOMAA(2011)GOMAA]{gomaa2011software} GOMAA, H\@. \textbf{Software
+  modeling and design}: UML, use cases, patterns, and software architectures.
+  [S.l.]: Cambridge University Press, 2011.
+
+\bibitem[GRIES(2004)GRIES]{gries2004methods} GRIES, M\@. Methods for evaluating
+  and covering the design space during early design development.
+  \textbf{Integration, the VLSI journal}, [S.l.], v.38, n.2, p.131--183, 2004.
+
+\bibitem[GR{\"U}TTNER et~al.(2013)GR{\"U}TTNER et~al.]{gruttner2013complex}
+  GR{\"U}TTNER, K. et~al\@. The COMPLEX reference framework for HW/SW co-design
+  and power management supporting platform-based design-space exploration.
+  \textbf{Microprocessors and Microsystems}, [S.l.], v.37, n.8, p.966--980,
+  2013.
+
+\bibitem[GUESSI et~al.(2012)GUESSI; NAKAGAWA; OQUENDO;
+  MALDONADO]{Guessi:2012:ArchitecturalDescription} GUESSI, M.; NAKAGAWA, E.~Y.;
+  OQUENDO, F.; MALDONADO, J.~C\@. {Architectural Description of Embedded
+  Systems: A Systematic Review}. In: INTERNATIONAL ACM SIGSOFT SYMPOSIUM ON
+  ARCHITECTING CRITICAL SYSTEMS, 3., 2012, New York, NY, USA.
+  \textbf{Proceedings{\ldots}} ACM, 2012. p.31--40. (ISARCS '12).
+
+\bibitem[HARDKERNEL(2018)HARDKERNEL]{HardKernel_Odroid_XU3} HARDKERNEL.
+  \textbf{{ODROID-XU3}}. [S.l.]: Hardkernel co., 2018.
+  \url{http://www.hardkernel.com/main/products/prdt_info.php?g_code=g140448267127}.
+
+\bibitem[HENDRIKS et~al.(2016)HENDRIKS; BASTEN; VERRIET; BRASS{\'{E}};
+  SOMERS]{Hendriks2016} HENDRIKS, M. et~al\@. {A blueprint for system-level
+  performance modeling of software-intensive embedded systems}.
+  \textbf{International Journal on Software Tools for Technology Transfer},
+  [S.l.], v.18, n.1, p.21--40, 2016.
+
+\bibitem[HERRERA et~al.(2014)HERRERA et~al.]{Herrera201455} HERRERA, F.
+  et~al\@. {The {COMPLEX} methodology for UML/MARTE Modeling and design space
+  exploration of embedded systems}. \textbf{Journal of Systems Architecture},
+  [S.l.], v.60, n.1, p.55--78, 2014.
+
+\bibitem[HOFFMANN et~al.(2010)HOFFMANN; EASTEP; SANTAMBROGIO; MILLER;
+  AGARWAL]{Hoffmann:2010} HOFFMANN, H. et~al\@. Application Heartbeats: A
+  Generic Interface for Specifying Program Performance and Goals in Autonomous
+  Computing Environments. In: INT. CONF. ON AUTONOMIC COMPUTING, 7., 2010, New
+  York, NY, USA. \textbf{Proceedings{\ldots}} ACM, 2010. p.79--88.
+
+\bibitem[{HSA Foundation}(2018){HSA Foundation}]{HSA_Foundation} {HSA
+  Foundation}. [S.l.]: HSA Foundation, 2018.
+  \url{http://www.hsafoundation.com/}.
+
+\bibitem[HUANG; HSIUNG; SHEN(2010)HUANG; HSIUNG; SHEN]{Huang201088} HUANG,
+  C.-H.; HSIUNG, P.-A.; SHEN, J.-S\@. {UML-based hardware/software co-design
+  platform for dynamically partially reconfigurable network security systems}.
+  \textbf{Journal of Systems Architecture}, [S.l.], v.56, n.2--3, p.88--102,
+  2010.
+
+\bibitem[HUANG; XIU(2015)HUANG; XIU]{Huang2015} HUANG, K.; XIU, S.-w\@.
+  {Profiling and annotation combined method for multimedia application specific
+  MPSoC performance estimation}. \textbf{Frontiers of Information Technology
+  {\&} Electronic Engineering}, [S.l.], v.16, n.2, p.135--151, 2015.
+
+\bibitem[INDRUSIAK; DZIURZANSKI; SINGH(2016)INDRUSIAK; DZIURZANSKI;
+  SINGH]{indrusiak2016dynamic} INDRUSIAK, L.~S.; DZIURZANSKI, P.; SINGH,
+  A.~K\@. \textbf{Dynamic Resource Allocation in Embedded, High-Performance and
+  Cloud Computing}. [S.l.]: River Publishers, 2016.
+
+\bibitem[JIA et~al.(2013)JIA; BAUTISTA; N\'{u}\~{n}EZ; PIMENTEL;
+  THOMPSON]{Jia:2013:NASAFramework} JIA, Z.~J. et~al\@. A System-level
+  Infrastructure for Multidimensional MP-SoC Design Space Co-exploration.
+  \textbf{ACM Trans. Embed. Comput. Syst.}, New York, NY, USA, v.13, n.1s,
+  p.27:1--27:26, Dec.~2013.
+
+\bibitem[JIANG; ELES; PENG(2016)JIANG; ELES;
+  PENG]{Jiang:2016:PDT:2872313.2801152} JIANG, K.; ELES, P.; PENG, Z\@.
+  {Power-Aware Design Techniques of Secure Multimode Embedded Systems}.
+  \textbf{ACM Transactions on Embedded Computing Systems}, New York, NY, USA,
+  v.15, n.1, p.1--29, 2016.
+
+\bibitem[JIANG et~al.(2013)JIANG; LI; ZHANG; DENG; SONG; GU;
+  SUN]{Jiang:2013:DOM:2491411.2494575} JIANG, Y. et~al\@. {Design and
+  Optimization of Multi-clocked Embedded Systems Using Formal Technique}. In:
+  JOINT MEETING ON FOUNDATIONS OF SOFTWARE ENGINEERING, 2013., 2013, New York,
+  NY, USA. \textbf{Proceedings{\ldots}} ACM, 2013. p.703--706. (ESEC/FSE 2013).
+
+\bibitem[KIM; HONG(2015)KIM; HONG]{Kim_Hong2015} KIM, D.~H.; HONG, J.~E\@.
+  {ESUML-EAF: a framework to develop an energy-efficient design model for
+  embedded software}. \textbf{Software and Systems Modeling}, [S.l.], v.14,
+  n.2, p.795--812, 2015.
+
+\bibitem[LEITE; WEHRMEISTER(2016)LEITE; WEHRMEISTER]{Leite2016} LEITE, M.;
+  WEHRMEISTER, M.~A\@. {System-level design based on UML/MARTE for FPGA-based
+  embedded real-time systems}. \textbf{Design Automation for Embedded Systems},
+  [S.l.], v.20, n.2, p.127--153, 2016.
+
+\bibitem[MANSUREH; CHO; CHOI(2017)MANSUREH; CHO; CHOI]{Mansureh2017} MANSUREH,
+  M.~S.; CHO, J.-M.; CHOI, K\@. Reconfigurable Architectures. In: HA, S.;
+  TEICH, J\@.~(Ed.). \textbf{Handbook of Hardware/Software Codesign}.
+  Dordrecht: Springer Netherlands, 2017. p.335--376.
+
+\bibitem[MARWEDEL(2006)MARWEDEL]{marwedel2006embedded} MARWEDEL, P\@.
+  \textbf{Embedded system design}. [S.l.]: Springer, 2006. v.1.
+
+\bibitem[MELO et~al.(2016)MELO et~al.]{melo2016parallel} MELO, M. et~al\@. A
+  parallel Motion Estimation solution for heterogeneous System on Chip. In:
+  INTEGRATED CIRCUITS AND SYSTEMS DESIGN (SBCCI), 2016 29TH SYMPOSIUM ON, 2016.
+  \textbf{Anais{\ldots}} [S.l.:~s.n.], 2016. p.1--6.
+
+\bibitem[MIELE et~al.(2015)MIELE; DURELLI; SANTAMBROGIO;
+  BOLCHINI]{miele2015system} MIELE, A.; DURELLI, G.~C.; SANTAMBROGIO, M.~D.;
+  BOLCHINI, C\@. {A System-Level Simulation Framework for Evaluating Resource
+  Management Policies for Heterogeneous System Architectures}. In: DIGITAL
+  SYSTEM DESIGN, 2015 EUROMICRO CONF. ON, 2015. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2015. p.637--644.
+
+\bibitem[MISCHKALLA; HE; MUELLER(2010)MISCHKALLA; HE;
+  MUELLER]{mischkalla2010closing} MISCHKALLA, F.; HE, D.; MUELLER, W\@.
+  {Closing the gap between UML-based modeling, simulation and synthesis of
+  combined HW/SW systems}. In: DESIGN, AUTOMATION {\&} TEST IN EUROPE
+  CONFERENCE {\&} EXHIBITION (DATE), 2010, 2010. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2010. p.1201--1206.
+
+\bibitem[NIKOLAEV; JACOBSON(2010)NIKOLAEV; JACOBSON]{Nikolaev2010_Simul_Anneal}
+  NIKOLAEV, A.~G.; JACOBSON, S.~H\@. Simulated Annealing. In: GENDREAU, M.;
+  POTVIN, J.-Y\@.~(Ed.). \textbf{Handbook of Metaheuristics}. Boston, MA:
+  Springer US, 2010. p.1--39.
+
+\bibitem[NOGUEIRA et~al.(2016)NOGUEIRA; MACIEL; TAVARES; SILVA;
+  ANDRADE]{Nogueira2016} NOGUEIRA, B. et~al\@. {Multi-objective optimization of
+  multimedia embedded systems using genetic algorithms and stochastic
+  simulation}. \textbf{Soft Computing}, [S.l.], p.1--18, 2016.
+
+\bibitem[OUNI et~al.(2017)OUNI; MHEDBI; TRABELSI; ATITALLAH;
+  BELLEUDY]{Ouni2017203} OUNI, B. et~al\@. {Multi-level energy/power-aware
+  design methodology for {MPSoC}}. \textbf{Journal of Parallel and Distributed
+  Computing}, [S.l.], v.100, p.203--215, 2017.
+
+\bibitem[PANERATI; SCIUTO; BELTRAME(2017)PANERATI; SCIUTO;
+  BELTRAME]{Panerati2017} PANERATI, J.; SCIUTO, D.; BELTRAME, G\@. Optimization
+  Strategies in Design Space Exploration. In: HA, S.; TEICH, J\@.~(Ed.).
+  \textbf{Handbook of Hardware/Software Codesign}. Dordrecht: Springer
+  Netherlands, 2017. p.189--216.
+
+\bibitem[PATEL; SHUKLA(2008)PATEL; SHUKLA]{patel2008ingredients} PATEL, H.~D.;
+  SHUKLA, S.~K\@. \textbf{Ingredients for Successful System Level Design
+  Methodology}. [S.l.]: Springer, 2008.
+
+\bibitem[PEDRE et~al.(2016)PEDRE; KRAJN{\'{I}}K; TODOROVICH;
+  BORENSZTEJN]{Pedre2016} PEDRE, S.; KRAJN{\'{I}}K, T.; TODOROVICH, E.;
+  BORENSZTEJN, P\@. {Accelerating embedded image processing for real time: a
+  case study}. \textbf{Journal of Real-Time Image Processing}, [S.l.], v.11,
+  n.2, p.349--374, 2016.
+
+\bibitem[RAYMOND et~al.(2015)RAYMOND; MAIZA; PARENT-VIGOUROUX; CARRIER;
+  ASAVOAE]{Raymond2015} RAYMOND, P. et~al\@. {Timing analysis enhancement for
+  synchronous program}. \textbf{Real-Time Systems}, [S.l.], v.51, n.2,
+  p.192--220, 2015.
+
+\bibitem[REEVES(2010)REEVES]{Reeves2010_GA} REEVES, C.~R\@. Genetic Algorithms.
+  In: GENDREAU, M.; POTVIN, J.-Y\@.~(Ed.). \textbf{Handbook of Metaheuristics}.
+  Boston, MA: Springer US, 2010. p.109--139.
+
+\bibitem[RODR{\'{I}}GUEZ(2017)RODR{\'{I}}GUEZ]{Rodriguez2017} RODR{\'{I}}GUEZ,
+  R.~J\@. {A Petri net tool for software performance estimation based on upper
+  throughput bounds}. \textbf{Automated Software Engineering}, [S.l.], v.24,
+  n.1, p.73--99, 2017.
+
+\bibitem[ROGERS(2013)ROGERS]{rogers2013heterogeneous} ROGERS, P\@.
+  Heterogeneous system architecture overview. In: IEEE HOT CHIPS 25 SYMP.
+  (HCS), 2013., 2013. \textbf{Anais{\ldots}} [S.l.:~s.n.], 2013. p.1--41.
+
+\bibitem[SCARPAZZA et~al.(2006)SCARPAZZA; RAGHAVAN; NOVO; CATTHOOR;
+  VERKEST]{scarpazza2006software} SCARPAZZA, D.~P. et~al\@. Software
+  Simultaneous Multi-Threading, a Technique to Exploit Task-Level Parallelism
+  to Improve Instruction- and Data-Level Parallelism. In: INTEGRATED CIRCUIT
+  AND SYSTEM DESIGN. POWER AND TIMING MODELING, OPTIMIZATION AND SIMULATION,
+  2006, Berlin, Heidelberg. \textbf{Anais{\ldots}} Springer Berlin Heidelberg,
+  2006. p.12--23.
+
+\bibitem[SORBER et~al.(2007)SORBER; KOSTADINOV; GARBER; BRENNAN; CORNER;
+  BERGER]{Sorber:2007:ELR:1322263.1322279} SORBER, J. et~al\@. {Eon: A Language
+  and Runtime System for Perpetual Systems}. In: INTERNATIONAL CONFERENCE ON
+  EMBEDDED NETWORKED SENSOR SYSTEMS, 5., 2007, New York, NY, USA.
+  \textbf{Proceedings{\ldots}} ACM, 2007. p.161--174. (SenSys '07).
+
+\bibitem[STRALEN; PIMENTEL(2010)STRALEN; PIMENTEL]{van2010scenario} STRALEN,
+  P.~van; PIMENTEL, A\@. Scenario-based design space exploration of MPSoCs. In:
+  IEEE INTERNATIONAL CONFERENCE ON COMPUTER DESIGN, 2010., 2010.
+  \textbf{Anais{\ldots}} [S.l.:~s.n.], 2010. p.305--312.
+
+\bibitem[TALBI(2009)TALBI]{talbi2009metaheuristics} TALBI, E.-G\@.
+  \textbf{Metaheuristics}: from design to implementation. New Jersey, USA: John
+  Wiley \& Sons, 2009.
+
+\bibitem[TRINDADE; CORDEIRO(2016)TRINDADE; CORDEIRO]{Trindade2016} TRINDADE,
+  A.~B.; CORDEIRO, L.~C\@. {Applying SMT-based verification to
+  hardware/software partitioning in embedded systems}. \textbf{Design
+  Automation for Embedded Systems}, [S.l.], v.20, n.1, p.1--19, 2016.
+
+\bibitem[VOELTER et~al.(2013)VOELTER; RATIU; KOLB; SCHAETZ]{Voelter2013}
+  VOELTER, M.; RATIU, D.; KOLB, B.; SCHAETZ, B\@. {Mbeddr: Instantiating a
+  language workbench in the embedded software domain}. \textbf{Automated
+  Software Engineering}, [S.l.], v.20, n.3, p.339--390, 2013.
+
+\bibitem[WAIDYASOORIYA; HARIYAMA; UCHIYAMA(2018)WAIDYASOORIYA; HARIYAMA;
+  UCHIYAMA]{waidyasooriya2018design} WAIDYASOORIYA, H.~M.; HARIYAMA, M.;
+  UCHIYAMA, K\@. \textbf{Design of FPGA-Based Computing Systems with OpenCL}.
+  [S.l.]: Springer, 2018.
+
+\bibitem[WANG et~al.(2011)WANG; SONG; ZHU; GU]{Wang201123} WANG, R.; SONG, X.;
+  ZHU, J.; GU, M\@. {Formal modeling and synthesis of programmable logic
+  controllers}. \textbf{Computers in Industry}, [S.l.], v.62, n.1, p.23--31,
+  2011.
+
+\end{thebibliography}

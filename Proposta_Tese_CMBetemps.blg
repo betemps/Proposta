@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Proposta_Tese_CMBetemps.aux
+The style file: abnt.bst
+Database file #1: bibliografia.bib
+I was expecting a `,' or a `}'---line 228 of file bibliografia.bib
+ :   
+ :   publisher={Springer Science+Business Media Dordrecht}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--"{HSA" isn't a brace-balanced string for entry HSA_Foundation
+while executing--line 1372 of file abnt.bst
+You've used 63 entries,
+            2376 wiz_defined-function locations,
+            998 strings with 18813 characters,
+and the built_in function-call counts, 61193 in all, are:
+= -- 5650
+> -- 588
+< -- 1311
++ -- 3608
+- -- 402
+* -- 4190
+:= -- 5277
+add.period$ -- 275
+call.type$ -- 63
+change.case$ -- 842
+chr.to.int$ -- 315
+cite$ -- 63
+duplicate$ -- 7237
+empty$ -- 3364
+format.name$ -- 1109
+if$ -- 12163
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 129
+num.names$ -- 317
+pop$ -- 1572
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 3502
+stack$ -- 0
+substring$ -- 2980
+swap$ -- 5247
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 429
+warning$ -- 0
+while$ -- 430
+width$ -- 0
+write$ -- 65
+(There was 1 error message)
